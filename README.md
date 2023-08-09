@@ -1,11 +1,14 @@
-<h1 align="center">Hello, This is Gopi Vaibhav 👋</h1>
-<h3 align="center">Web developer and AI-ML enthusiast</h3>
+<h1 align="center">Hey, This is Gopi Vaibhav 👋</h1>
+<h3 align="center">Web developer and DevOps enthusiast 🚀</h3>
 
+<h3>The badges I got while contributing to Layer5- </h3>
+<a href= "https://meshery.layer5.io/user/85339de7-8ca2-4543-8793-1ebb1e76bf99?tab=badges"><img width="130px" height="200px" src = "https://badges.layer5.io/assets/badges/first-application/first-application.png" alt = "Community" /></a >
+<a href= "https://meshery.layer5.io/user/85339de7-8ca2-4543-8793-1ebb1e76bf99?tab=badges"><img width="130px" height="200px" src = "https://badges.layer5.io/assets/badges/meshmap/meshmap.png" alt = "Community" /></a >
 
-- 🌱 I’m currently learning **React, Django**
+- 🌱 I’m currently exploring **Golang, Kubernetes**
 
-- 💬 Ask me about **Node**
-
+- 💬 Feel free to ask me about anything.
+ 
 - 📫 How to reach me **gopivaibhav0@gmail.com**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gopivaibhav&show_icons=true&theme=tokyonight" alt="gopivaibhav" /></p>
